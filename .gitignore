@@ -2,6 +2,5 @@ node_modules/
 dist/
 .sass-cache/
 bower_components/
-app/styles/main.css
 npm-debug.log
 .DS_Store
